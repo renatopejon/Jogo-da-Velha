@@ -78,3 +78,10 @@ span {
 #nine {
     border-bottom-right-radius: 10px;
 }
+
+@media (max-width: 500px) {
+    span {
+        width: 123.1px;
+        height: 125px;
+    }
+}
