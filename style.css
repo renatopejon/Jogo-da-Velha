@@ -79,9 +79,13 @@ span {
     border-bottom-right-radius: 10px;
 }
 
-@media (min-width: 372px) {
+@media (min-width: 310px) {
     span {
-        width: 109px;
+        width: 92px;
         height: 125px;
+    }
+
+    .container {
+        width: 303px;
     }
 }
