@@ -79,9 +79,9 @@ span {
     border-bottom-right-radius: 10px;
 }
 
-@media (max-width: 350px) {
+@media (min-width: 372px) {
     span {
-        width: 102px;
+        width: 109px;
         height: 125px;
     }
 }
